@@ -1,0 +1,6 @@
+﻿@import "tailwindcss";
+
+.test-class {
+  color: green;
+  font-size: 40px;
+}
