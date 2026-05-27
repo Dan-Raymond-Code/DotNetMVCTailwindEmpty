@@ -6,9 +6,9 @@ This template contains no Bootstrap CSS code.
 
 Prerequisites:
 
-1. [NodeJS](https://nodejs.org/en){:target="\_blank"}
-1. [TailwindCSS and Tailwind CLI](https://tailwindcss.com/){:target="\_blank"}
-1. [.NET SDK](https://dotnet.microsoft.com/en-us/download){:target="\_blank"}
+1. [NodeJS](https://nodejs.org/en)
+1. [TailwindCSS and Tailwind CLI](https://tailwindcss.com/)
+1. [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 
 To run this project, open up a new terminal window and run:
 
