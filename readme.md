@@ -1,6 +1,6 @@
 # Basic Tailwind ASP.NET Core MVC Template
 
-This is a bare-bones template for using TailwindCSS with ASP.NET Core MVC with Visual Studio Code.
+This is a bare-bones template for using [TailwindCSS](https://tailwindcss.com/) with ASP.NET Core MVC with [Visual Studio Code](https://code.visualstudio.com/).
 
 This template contains no Bootstrap CSS code.
 
@@ -22,4 +22,4 @@ Open up another terminal window and run:
 npx @tailwindcss/cli -i ./wwwroot/css/input.css -o ./wwwroot/css/output.css --watch
 ```
 
-Install the [Tailwind CSS Intellisense extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for the best coding experience with TailwindCSS.
+Install the VS Code [Tailwind CSS Intellisense extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for the best coding experience with TailwindCSS.
